@@ -1,2 +1,2 @@
 # Smart-Attendance-System
-Smart Attendance System in Android
+Android based smart attendance system
